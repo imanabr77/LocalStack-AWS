@@ -17,6 +17,4 @@ This project is implemented to use Local-stack and implement AWS infrastructure 
     docker-compose up -d
     terraform init
     terraform apply
-     
-    
     ```
